@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "5002758026:AAEZ0QOGCaC4-ijTFcVhmvxUkh9zmTn82vU"
+OWNER_ID = 2142536515
+TELEGRAM_API = 16531092
+TELEGRAM_HASH = "b073b97bd4c8c56616fc2cbbd4da845a"
+DATABASE_URL = "mongodb+srv://FF:FF@cluster0.utm7k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -12,8 +12,8 @@ TG_PROXY = (
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
-SUDO_USERS = ""
+AUTHORIZED_CHATS = "-1002335247781"
+SUDO_USERS = "2142536515"
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
@@ -95,11 +95,11 @@ INDEX_URL = ""
 # Rclone
 RCLONE_PATH = ""
 RCLONE_FLAGS = ""
-RCLONE_SERVE_URL = ""
+RCLONE_SERVE_URL = "https://onedrive-vercel-index-phi-liard.vercel.app"
 RCLONE_SERVE_PORT = 0
 RCLONE_SERVE_USER = ""
 RCLONE_SERVE_PASS = ""
-SHOW_CLOUD_LINK = False
+SHOW_CLOUD_LINK = True
 
 # JDownloader
 JD_EMAIL = ""
@@ -143,7 +143,7 @@ LEECH_PREFIX = ""
 LEECH_SUFFIX = ""
 LEECH_FONT = ""
 LEECH_CAPTION = ""
-LEECH_DUMP_CHAT = ""
+LEECH_DUMP_CHAT = "-1002188509636"
 THUMBNAIL_LAYOUT = ""
 
 # qBittorrent/Aria2c
