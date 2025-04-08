@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = "5002758026:AAEZ0QOGCaC4-ijTFcVhmvxUkh9zmTn82vU"
+BOT_TOKEN = "8163074778:AAG9PanqwZf8YkRPe-D8yM0rQxcews2GCUU"
 OWNER_ID = 2142536515
 TELEGRAM_API = 16531092
 TELEGRAM_HASH = "b073b97bd4c8c56616fc2cbbd4da845a"
-DATABASE_URL = "mongodb+srv://FF:FF@cluster0.utm7k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DATABASE_URL = "mongodb+srv://ipm:ipm@cluster0.ec9tg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
